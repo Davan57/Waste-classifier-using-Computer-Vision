@@ -36,14 +36,15 @@ Ensure you have Python 3.x installed. You will also need the following Python li
 
 You can install the required Python libraries using pip:
 
+```sh
 pip install opencv-python numpy Pillow scikit-learn
-Usage
-Start the Application
+```
 
 # Run the main.py script to launch the application:
 
+```sh
 python main.py
-
+```
 ### Interact with the GUI
 
 **Auto Prediction**: Toggle auto-prediction to automatically classify images from the camera feed.
